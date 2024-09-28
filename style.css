@@ -96,3 +96,7 @@ body {
 #copyIcon {
     display: none;
 }
+
+#inputSlider {
+    color: gray;
+}
