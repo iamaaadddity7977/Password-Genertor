@@ -77,8 +77,3 @@ document.getElementById("copyIcon").style.display = "inline";
     }
 })
 
-    // copyIcon.onmouseover = () => {
-    //     console.log("Click to Copied");
-    //     // copyIcon.style.display = "flex";
-    //     // copyIcon.style.innerHTML = "Click to Copy";
-    // };

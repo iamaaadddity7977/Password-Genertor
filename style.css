@@ -12,13 +12,11 @@ body {
   justify-content: center;
   align-items: center;
   background: linear-gradient(to right bottom, aqua, blue);
-  /* background: linear-gradient(to right bottom, #ffa585, #45c5d8); */
   font-weight: 600;
 }
 
 
 .container{
-    /* border: 0.5px solid #fff; */
     border: 0.5px solid #000;
     border-radius: 10px;
     padding: 28px 32px;
@@ -26,7 +24,6 @@ body {
     flex-direction: column;
     background: transparent;
     box-shadow: 8px 8px 4px  #000, 8px 8px 0px #575757;
-    /* box-shadow: 8px 8px 4px  #909090, 8px 8px 0px #575757; */
 }
 
 .container h1{
